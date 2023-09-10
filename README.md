@@ -1,4 +1,4 @@
-# InstaAutoLikes (Auto-Liker)
+# Instagram Auto Liker - Script Bot
 
 This simple JavaScript script allows you to automatically like posts on your Instagram feed. It's a fun way to interact with your feed and engage with content you enjoy. Please note that this script assumes your Instagram interface is set to English. Make sure to follow these instructions to use the script:
 
