@@ -44,8 +44,8 @@
     // Log the total number of likes performed
     console.log("Total Likes: " + totalLikes);
 
-    // Scroll the page by 550 pixels
-    window.scrollBy(0, 550);
+    // Scroll the page by 2000 pixels
+    window.scrollBy(0, 2000);
 
     // Schedule the next execution with a random delay
     setTimeout(likePosts, delayBetweenActions * 1000);
